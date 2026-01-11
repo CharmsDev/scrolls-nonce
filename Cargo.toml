@@ -2,6 +2,7 @@
 name = "scrolls-nonce"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 bitcoin = "0.32"
